@@ -48,6 +48,7 @@ body {
 .opacity {
 
 filter: hue-rotate(180deg);
+	filter: sepia(100%);}
 }
 
 body {
