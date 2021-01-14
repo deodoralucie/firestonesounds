@@ -46,7 +46,7 @@ body {
 .opacity {
 
 filter: hue-rotate(180deg);
-	filter: sepia(100%);}
+	filter: sepia(100%) brightness(100%);}
 }
 
 body {
